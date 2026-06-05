@@ -1,0 +1,44 @@
+{
+  "manga_id": "manga_dspr_001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Return of the Unrivaled Dragonslayer",
+  "status": "Ongoing",
+  "author": "Yusung",
+  "artist": "Yusung",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 9.8,
+  "synopsis": "Setelah kehilangan segalanya dan mati di tangan Raja Naga, sang pahlawan tiba-tiba terbangun kembali ke masa lalu di akademi. Dengan ingatan dari kehidupan sebelumnya dan pengalaman bertarung selama puluhan tahun, ia memiliki satu tujuan: membasmi semua naga dan mencegah kiamat yang akan menghancurkan dunia.",
+  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dspr_cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Regresi",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_01.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_02.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_03.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_04.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_05.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kebangkitan di Akademi",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_01.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_02.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_03.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_04.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_05.jpg"
+      ]
+    }
+  ]
+}
