@@ -1,44 +1,333 @@
-{
-  "manga_id": "manga_dspr_001",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Return of the Unrivaled Dragonslayer",
-  "status": "Ongoing",
-  "author": "Yusung",
-  "artist": "Yusung",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 9.8,
-  "synopsis": "Setelah kehilangan segalanya dan mati di tangan Raja Naga, sang pahlawan tiba-tiba terbangun kembali ke masa lalu di akademi. Dengan ingatan dari kehidupan sebelumnya dan pengalaman bertarung selama puluhan tahun, ia memiliki satu tujuan: membasmi semua naga dan mencegah kiamat yang akan menghancurkan dunia.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dspr_cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Kematian dan Regresi",
-      "images": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_01.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_02.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_03.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_04.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_05.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kebangkitan di Akademi",
-      "images": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_01.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_02.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_03.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_04.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_05.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "manga_dspr_001",
+    "title": "A Dragonslayer's Peerless Regression",
+    "alternative_title": "Return of the Unrivaled Dragonslayer",
+    "status": "Ongoing",
+    "author": "Yusung",
+    "artist": "Yusung",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Regression",
+      "Shounen"
+    ],
+    "type": "Manhwa",
+    "release_year": 2023,
+    "rating": 9.8,
+    "synopsis": "Setelah kehilangan segalanya dan mati di tangan Raja Naga, sang pahlawan tiba-tiba terbangun kembali ke masa lalu di akademi. Dengan ingatan dari kehidupan sebelumnya dan pengalaman bertarung selama puluhan tahun, ia memiliki satu tujuan: membasmi semua naga dan mencegah kiamat yang akan menghancurkan dunia.",
+    "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dspr_cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Kematian dan Regresi",
+        "images": [
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_01.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_02.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_03.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_04.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_001/page_05.jpg"
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Kebangkitan di Akademi",
+        "images": [
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_01.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_02.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_03.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_04.jpg",
+          "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga_dspr_001/ch_002/page_05.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "790821861aefb75dde99a774dd980ff37ba2b669",
+    "title": "A Cadet Becomes a Prophet",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=A%20Cadet%20Becomes",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "d018ced58c2ba5ea24b04c37cfe6671e0b32a82f",
+    "title": "Academy s Genius Swordmaster",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Academy_s%20Geniu",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Academy_s%20Genius%20Swordmaster.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Children%20of%20the",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Children%20of%20the%20Rune.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "7d1b2739ea130372fe4c2e626138a66795c19480",
+    "title": "Chronicles Of The Martial God s Return",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Chronicles%20Of%20T",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "3faae317837088ae96d471df4dcc8270e63977eb",
+    "title": "Crimson Reset",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Crimson%20Reset.c",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Crimson%20Reset.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "af100982e2ad2e096e5bb4874bfc2ab9d966a425",
+    "title": "Echoes of the Reverse Planet",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Echoes%20of%20the%20R",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Echoes%20of%20the%20Reverse%20Planet.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "076acfc08c642a52a31f451c97f98aa240b8006b",
+    "title": "Genius Prismatic Mage",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Genius%20Prismati",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Genius%20Prismatic%20Mage.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "0e67a304bdf5946793da3e0f9f3389a3d7ccf488",
+    "title": "I Am the Fated Villain",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=I%20Am%20the%20Fated%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/I%20Am%20the%20Fated%20Villain.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "09cf29f5c1bf819de0da9e8106f7dc07b3b035c7",
+    "title": "I Killed an Academy Player",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=I%20Killed%20an%20Aca",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/I%20Killed%20an%20Academy%20Player.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "4424d3837d97b0b308455f7476f61ae1ced5e4d2",
+    "title": "I Obtained a Mythic Item",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=I%20Obtained%20a%20My",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/I%20Obtained%20a%20Mythic%20Item.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "e33f18ff9401d138c0f29e9542b6577bc7cbc1de",
+    "title": "Level 999 Goblin",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Level%20999%20Gobli",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Level%20999%20Goblin.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "0595b6704107c9cf9d192668800f60c3ec2a69f0",
+    "title": "Limit Breaking Genius Mage",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Limit-Breaking%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Limit-Breaking%20Genius%20Mage.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "739e547e924411a146ca6dd5d01287dc12e4ee3b",
+    "title": "My Exclusive Tower Guide",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=My%20Exclusive%20To",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/My%20Exclusive%20Tower%20Guide.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "d2f1c4b4fe5ef3c8f03d4d8e291d1d6a363cb018",
+    "title": "Nano Machine",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Nano%20Machine.cb",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Nano%20Machine.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "03d4b8a8ca68f6c3fd5e4f72e313e0490d815b9c",
+    "title": "Only I Have an EX Grade Summon",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Only%20I%20Have%20an%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Only%20I%20Have%20an%20EX-Grade%20Summon.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "488aef04fa6f10c9ab7be0a1c0dea40e43e9108b",
+    "title": "Pick Me Up, Infinite Gacha",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Pick%20Me%20Up%2C%20Inf",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Pick%20Me%20Up%2C%20Infinite%20Gacha.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "908e6494687029ac569de92fb12f109dcf3094ea",
+    "title": "Raising Villains the Right Way",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Raising%20Villain",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Raising%20Villains%20the%20Right%20Way.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "44db2924719db7eb622599b87dab2596d1db188c",
+    "title": "Rebirth of the Divine Demon",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Rebirth%20of%20the%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Rebirth%20of%20the%20Divine%20Demon.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "9271425d7392a6f947647262c71f60eae3628871",
+    "title": "Reformation of the Deadbeat Noble",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Reformation%20of%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Reformation%20of%20the%20Deadbeat%20Noble.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "37d1f54da3dbadef2541ae48fbe36afe66a0b3e4",
+    "title": "Return of the Mount Hua Sect",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Return%20of%20the%20M",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Return%20of%20the%20Mount%20Hua%20Sect.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "9bf4606093fdca9f89a9f7b840f6ab94d8488b82",
+    "title": "Solo Farming In The Tower",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Solo%20Farming%20In",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Solo%20Farming%20In%20The%20Tower.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "3c94385d340bbe684fa27f51faafc5156ee4290e",
+    "title": "Solo Max Level Newbie",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Solo%20Max-Level%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Solo%20Max-Level%20Newbie.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "01ef0c1df56a9348606b080c4c29958190587cbd",
+    "title": "Star Embracing Swordmaster",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Star-Embracing%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Star-Embracing%20Swordmaster.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "b0960321be9db1e235ab763d1f199da3a9b0cf6d",
+    "title": "Steel Eating Player",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Steel-Eating%20Pl",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Steel-Eating%20Player.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "12772744cb0d39521a34d0d542e01625a172759b",
+    "title": "Sword God s Livestream",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Sword%20God_s%20Liv",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Sword%20God_s%20Livestream.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "ac0eaa77d1e0a09d986138cec97d57dacf9357d7",
+    "title": "Sword of the Undying",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Sword%20of%20the%20Un",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Sword%20of%20the%20Undying.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "f0662af69d12340c91275fb0d9ed3f0c74c9c25c",
+    "title": "Talent Swallowing Magician",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Talent-Swallowi",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Talent-Swallowing%20Magician.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "60087370a7dc0bb283dcfdd6891049ee07c5a077",
+    "title": "The Academy’s Sashimi Sword Master",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Academy%E2%80%99s%20S",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The Academy’s Sashimi Sword Master.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "96468eb420b2faf08b12d1d54b288ce0d7fd587e",
+    "title": "The Demon King Overrun by Heroes",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Demon%20King%20",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Demon%20King%20Overrun%20by%20Heroes.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "d9f08b7d9021753e85f4a153f7a970ea6b922d69",
+    "title": "The Executioner",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Executioner",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Executioner.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "008f680b958f520fc92a270abdb8bd1eb38319b5",
+    "title": "The Extra’s Academy Survival Guide",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Extra%E2%80%99s%20Aca",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The Extra’s Academy Survival Guide.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "2b5e6458266c5d11fb706ab48f9d8d3f0e763465",
+    "title": "The Forgotten Field",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Forgotten%20F",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Forgotten%20Field.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "5d425508fadd92ebf0acc10e2c0ad20159f63cda",
+    "title": "The Heavenly Demon Wants a Quiet Life",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Heavenly%20De",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Heavenly%20Demon%20Wants%20a%20Quiet%20Life.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "8d09ce71eeb57ea22b18734ca10b192419eea0d6",
+    "title": "The Hero Starts Over at the Academy",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Hero%20Starts",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Hero%20Starts%20Over%20at%20the%20Academy.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "1992f603ddd2d2a0c3b264584adb1636cf903e29",
+    "title": "The Knight King Who Returned with a God",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Knight%20King",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Knight%20King%20Who%20Returned%20with%20a%20God.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "5d0c366eb31a135644daf42f9c496bf9fa2423fe",
+    "title": "The Nebula s Civilization",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Nebula_s%20Ci",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Nebula_s%20Civilization.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "fb357914398b5b70fd952281f8de4493efcbe0a2",
+    "title": "The S Classes That I Raised",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20S-Classes%20T",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20S-Classes%20That%20I%20Raised.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "e2b9e3a7cb3656aca84672335cf150cb67371cfa",
+    "title": "The World After The End",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20World%20After",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20World%20After%20The%20End.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "70ba8cc06a2588972ac3a46d347709e18364d3a6",
+    "title": "The Youngest Son of the Eunhae Merchant Group",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=The%20Youngest%20So",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/The%20Youngest%20Son%20of%20the%20Eunhae%20Merchant%20Group.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "ef6c74f4e3d063e5a992e8456c1f732a18dc1c04",
+    "title": "To Hell With the Status Window",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=To%20Hell%20With%20th",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/To%20Hell%20With%20the%20Status%20Window.cbz",
+    "category": "Komik"
+  },
+  {
+    "id": "6d83b22f3a8dbfa28707491c50e3cd6ce61bf751",
+    "title": "Villain To Kill",
+    "cover": "https://placehold.co/300x450/111/00d2ff?text=Villain%20To%20Kill",
+    "cbzUrl": "https://raw.githubusercontent.com/Hanzz002/mabrewkomik/main/Komik/Villain%20To%20Kill.cbz",
+    "category": "Komik"
+  }
+]
